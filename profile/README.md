@@ -19,10 +19,7 @@
 </a>
 <a href="https://www.figma.com/design/JnSpdKdA3beByC2qpUgdFO/%ED%95%9C%EC%84%B1%EB%8C%80-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EC%9E%91%EC%97%85?node-id=0-1&t=FD9G5eaC6DQ3lpBA-1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</a>
-
-<br>
-
+</a> 
 <a href="https://github.com/movement-devorg/Assignment" target="_blank">
     <img src="https://img.shields.io/badge/Assignment%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Assignment Repo"/>
 </a> 
