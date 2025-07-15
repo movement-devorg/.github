@@ -11,6 +11,9 @@
 <a href="https://github.com/movement-devorg/Assignment" target="_blank">
     <img src="https://img.shields.io/badge/Assignment%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Assignment Repo"/>
 </a>
+<a href="https://github.com/movement-devorg/Assignment/backend" target="_blank">
+    <img src="https://img.shields.io/badge/Backend%20Assignments-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Assignments"/>
+</a>
 
 ---
 
